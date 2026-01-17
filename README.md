@@ -1,4 +1,4 @@
-# pet_speak
+# petspeak
 
 Single-page Next.js app for translating English into cosy "pet-sound" speak with deterministic rules and built-in audio (Web Speech API).
 
